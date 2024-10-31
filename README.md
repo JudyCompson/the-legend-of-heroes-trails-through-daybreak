@@ -1,8 +1,10 @@
 # the-legend-of-heroes-trails-through-daybreak
 
+<img src="https://github.com/JudyCompson/the-legend-of-heroes-trails-through-daybreak/blob/main/t1.jpg"/>
+
 *The star of this new story is a 24-year-old man who runs a problem-solving business. He often takes on jobs that have him dealing with the grey area at the edge of legality. Depending on your actions, he may find himself working alongside the police, the mafia, or even some mysterious factions that are just as grey as him*
 
-***Dive into the dynamic adventure in "Trails through Daybreak!"*** 👉
+***Dive into the dynamic adventure in "Trails through Daybreak!"*** 👉 [<img src="https://github.com/JudyCompson/the-legend-of-heroes-trails-through-daybreak/blob/main/fd.png"/>](https://bit.ly/48qOYM9)
 
 Trails through Daybreak seamlessly blends real-time action and turn-based combat to create a new pinnacle for the Trails series.
 
@@ -11,6 +13,8 @@ New players will find themselves drawn in to the intricately-built world and wel
 The Trails series' traditional AT battles have been enhanced to be more action-packed than ever! The field attacks present in previous titles are now full-on field battles, letting you choose to dispatch enemies in real time.
 
 Enjoy the perfect blend of speed and strategy in your battles!
+
+<img src="https://github.com/JudyCompson/the-legend-of-heroes-trails-through-daybreak/blob/main/t2.jpg"/>
 
 After the war, Calvard is enjoying unprecedented economic prosperity. However, the public grows uncertain as the number of immigrants increases and political reform runs rampant. Follow Van, a young man and local spriggan, on a unique request that will prove more than he bargained for. Will the nation fall into chaos?
 
@@ -58,4 +62,4 @@ Storage: 17 GB available space
 
 Additional Notes: Settings: 1440p, 60 FPS, High Graphics Profile
 
-***Dive into the dynamic adventure in "Trails through Daybreak!"*** 👉
+***Dive into the dynamic adventure in "Trails through Daybreak!"*** 👉 [<img src="https://github.com/JudyCompson/the-legend-of-heroes-trails-through-daybreak/blob/main/fd.png"/>](https://bit.ly/48qOYM9)
